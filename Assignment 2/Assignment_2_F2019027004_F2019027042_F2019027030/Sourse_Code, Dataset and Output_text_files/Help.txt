@@ -1,0 +1,6 @@
+Step-1:
+	Anaconda and Jupyter must be insall on your pc.
+Step-2:
+	Open the ipynb File given here with he name 2ndAssign_F2019027004_F2019027030.docx.ipynb and execute it on  
+Step-3:
+	Run the Codes on Jupyter using Shift+Enter Command.  
